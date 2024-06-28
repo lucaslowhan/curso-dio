@@ -1,5 +1,5 @@
 
-# BootCampo DIO
+# BootCamp DIO
 
 Nesse diretorio está todos os meus projetos realizados durante o BOOTCAMP da DIO.
 
